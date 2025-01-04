@@ -34,7 +34,7 @@ Users should be able to:
 
 [Live site URL here](https://mendezpvi.github.io/fem-four-card-feature/) 👈
 
-<!-- [Solution in Frontend Mentor here](https://your-solution-url.com) 👈 -->
+[Solution in Frontend Mentor here](https://www.frontendmentor.io/solutions/four-card-feature-section-using-grid-79w3ZfpOyg) 👈
 
 
 ## Built with :hammer_and_pick:
